@@ -19,7 +19,7 @@ Technologies
 
 How to Use
 
-1. Open `ive-link` in your browser.
+1. Open `live-link` in your browser.
 2. Click **Generate Palette** to create a new set of colors.
 3. Click the **Copy** icon on any color strip to save the Hex code.
 4. Toggle the **Sun/Moon** icon in the header to switch themes.
